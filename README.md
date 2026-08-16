@@ -1,26 +1,31 @@
 # 🚀 PG.Dev Software
 
-Landing page profesional desarrollada para presentar servicios de desarrollo web, sistemas personalizados y automatización para empresas en América Latina.
+Professional landing page developed to present web development, custom software, and automation services for companies in Latin America.
 
-## 🌎 Enfoque
-Este proyecto está enfocado en empresas que buscan:
-- mejorar su presencia digital
-- automatizar procesos
-- organizar su negocio con tecnología
+## 🌎 Focus
 
-## 🛠 Tecnologías utilizadas
+This project is focused on companies looking to:
+
+- improve their digital presence
+- automate processes
+- organize their business with technology
+
+## 🛠 Technologies Used
+
 - React
 - TypeScript
 - Vite
 - CSS
 
-## 📱 Características
-- Diseño moderno y responsivo
-- Estructura orientada a conversión
-- Secciones estratégicas (servicios, proyectos, proceso)
-- Preparado para PWA (manifest e iconos)
+## 📱 Features
 
-## 💼 Proyectos incluidos
-- Sistema inmobiliario (gestión completa)
-- Sitio institucional – Dr. Bruno Ribeiro
-- Sitio institucional – Maxx Sorvetes
+- Modern and responsive design
+- Conversion-oriented structure
+- Strategic sections (services, projects, process)
+- PWA-ready (manifest and icons)
+
+## 💼 Included Projects
+
+- Real estate system (complete management)
+- Institutional website – Dr. Bruno Ribeiro
+- Institutional website – Maxx Sorvetes
